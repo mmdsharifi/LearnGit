@@ -1,0 +1,2 @@
+#how to download all of project by a command
+git clone

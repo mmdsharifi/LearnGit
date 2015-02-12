@@ -1,2 +1,2 @@
 # LearnGit
-Learn Git 
+learn basic git commands.
