@@ -3,3 +3,7 @@ git add .
 git commit -m "init commit"
 git remote add orign https://github.com/yourusername/repos.git
 git push origin master
+------------------------------
+edited:
+# pull just get changes in current project.
+# but clone get all files of project.
